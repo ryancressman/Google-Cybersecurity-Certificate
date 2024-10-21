@@ -14,10 +14,9 @@ This portfolio aims to demonstrate my skills and knowledge in cybersecurity, acq
 
 ## Projects
 
-- **Project 1: [Project Name]**
-  - Description: A brief description of the project and its goals.
-  - Technologies: List of technologies used.
-  - Link: [Live Demo/Repository Link](#)
+- **Project 1: [Conduct a security audit]**
+  - Description: The security audit for Botium Toys assessed the company’s existing controls and compliance measures, identifying key areas for improvement to enhance data confidentiality, security posture, and regulatory compliance.
+  - Link: [https://github.com/ryancressman/Conduct-a-security-audit](#)
 
 - **Project 2: [Project Name]**
   - Description: A brief description of the project and its goals.

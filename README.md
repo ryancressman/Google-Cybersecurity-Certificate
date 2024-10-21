@@ -7,8 +7,6 @@ Welcome to my Google Cybersecurity Portfolio! This repository showcases the acti
 - [Overview](#overview)
 - [Projects](#projects)
 - [Technologies Used](#technologies-used)
-- [Getting Started](#getting-started)
-- [License](#license)
 
 ## Overview
 
@@ -31,8 +29,6 @@ This portfolio aims to demonstrate my skills and knowledge in cybersecurity, acq
 
 ## Technologies Used
 
-- Programming Languages: Python, JavaScript, etc.
-- Tools: Git, Docker, etc.
-- Frameworks: Flask, Django, etc.
-- Platforms: Google Cloud, AWS, etc.
+- Programming Languages: Python, SQL
+- Tools: Linux, IDS, SIEM
 

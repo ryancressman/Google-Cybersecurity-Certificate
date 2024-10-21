@@ -19,15 +19,14 @@ This portfolio aims to demonstrate my skills and knowledge in cybersecurity, acq
   - Link: [https://github.com/ryancressman/Conduct-a-security-audit](#)
 
 - **Project 2: [Project Name]**
-  - Description: A brief description of the project and its goals.
-  - Technologies: List of technologies used.
-  - Link: [Live Demo/Repository Link](#)
+  - Description: The project aims to investigate and resolve DNS resolution issues for the domain yummyrecipesforme.com by analyzing network logs and identifying the root causes of communication failures with the DNS server, ultimately ensuring reliable access to the website for users.
+  - Technologies: tcpdump
+  - Link: [https://github.com/ryancressman/analyze-network-layer-communication](#)
 
-*(Add more projects as needed)*
 
 
 ## Technologies Used
 
 - Programming Languages: Python, SQL
-- Tools: Linux, IDS, SIEM
+- Tools: Linux, IDS, SIEM, tcpdump
 

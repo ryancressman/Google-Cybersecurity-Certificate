@@ -36,9 +36,3 @@ This portfolio aims to demonstrate my skills and knowledge in cybersecurity, acq
 - Frameworks: Flask, Django, etc.
 - Platforms: Google Cloud, AWS, etc.
 
-## Getting Started
-
-To clone this repository and get started with the projects, run the following command:
-
-```bash
-git clone https://github.com/yourusername/cybersecurity-portfolio.git

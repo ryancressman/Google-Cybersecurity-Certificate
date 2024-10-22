@@ -23,11 +23,15 @@ This portfolio aims to demonstrate my skills and knowledge in cybersecurity, acq
   - Technologies: tcpdump
   - Link: [Analyze network layer communication](https://github.com/ryancressman/Google-Cybersecurity-Certificate/tree/main/analyze-network-layer-communication)
 
+- **Project 3: [Analyze network attacks]**
+  - Description: This activity analyzes a potential SYN flood attack causing connection timeouts on a web server by examining the TCP three-way handshake process and its disruption through excessive SYN packets.
+  - Technologies: wireshark
+  - Link: [Analyze network attacks](https://github.com/ryancressman/Google-Cybersecurity-Certificate/tree/main/analyze-network-attacks)
 
 
 
 ## Technologies Used
 
 - Programming Languages: Python, SQL
-- Tools: Linux, IDS, SIEM, tcpdump
+- Tools: Linux, IDS, SIEM, tcpdump, wireshark
 

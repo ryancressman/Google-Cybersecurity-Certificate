@@ -21,7 +21,7 @@ This portfolio aims to demonstrate my skills and knowledge in cybersecurity, acq
 - **Project 2: [Analyze network layer communication]**
   - Description: The project aims to investigate and resolve DNS resolution issues for the domain yummyrecipesforme.com by analyzing network logs and identifying the root causes of communication failures with the DNS server, ultimately ensuring reliable access to the website for users.
   - Technologies: tcpdump
-  - Link: [Analyze network layer communication](https://github.com/ryancressman/Analyze-network-layer-communication)
+  - Link: [Analyze network layer communication](https://github.com/ryancressman/Google-Cybersecurity-Certificate/tree/main/analyze-network-layer-communication)
 
 
 

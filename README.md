@@ -16,7 +16,7 @@ This portfolio aims to demonstrate my skills and knowledge in cybersecurity, acq
 
 - **Project 1: [Conduct a security audit]**
   - Description: The security audit for Botium Toys assessed the company’s existing controls and compliance measures, identifying key areas for improvement to enhance data confidentiality, security posture, and regulatory compliance.
-  - Link: [Conduct a security audit](https://github.com/ryancressman/Googel-Cybersecurity-Certificate/Conduct-a-security-audit)
+  - Link: [Conduct a security audit](https://github.com/ryancressman/Google-Cybersecurity-Certificate/tree/main/Conduct-a-security-audit)
 
 - **Project 2: [Analyze network layer communication]**
   - Description: The project aims to investigate and resolve DNS resolution issues for the domain yummyrecipesforme.com by analyzing network logs and identifying the root causes of communication failures with the DNS server, ultimately ensuring reliable access to the website for users.
